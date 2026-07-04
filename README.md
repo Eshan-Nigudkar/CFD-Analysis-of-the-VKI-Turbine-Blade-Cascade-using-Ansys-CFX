@@ -20,11 +20,11 @@ Turbine blade cascades are highly sensitive to mesh quality — get it wrong and
 
 **Mesh independence proof** — inlet/outlet Mach number and mass flow rate compared across 9 mesh densities (21,972–61,366 nodes), converging by 45,248 nodes:
 
-![Grid independence result](fig12_grid_independence.png)
+![Grid independence result](Grid_Independence.png)
 
 **Headline result — isentropic Mach number distribution over the blade:**
 
-![Isentropic Mach number vs x/c](fig13_isentropic_mach_vs_xc.png)
+![Isentropic Mach number vs x/c](ism_blade.png)
 
 **Pressure contours** — showing the pressure differential driving flow acceleration and the separation region:
 
