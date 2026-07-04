@@ -15,21 +15,21 @@ Turbine blade cascades are highly sensitive to mesh quality — get it wrong and
 
 **Blade geometry and mesh:**
 
-![VKI blade geometry](vki_project_images/fig02_blade_geometry.jpg)
-![Optimized mesh](vki_project_images/fig04_optimized_mesh.jpg)
+![VKI blade geometry](fig02_blade_geometry.jpg)
+![Optimized mesh](fig04_optimized_mesh.jpg)
 
 **Mesh independence proof** — inlet/outlet Mach number and mass flow rate compared across 9 mesh densities (21,972–61,366 nodes), converging by 45,248 nodes:
 
-![Grid independence result](vki_project_images/fig12_grid_independence.png)
+![Grid independence result](fig12_grid_independence.png)
 
 **Headline result — isentropic Mach number distribution over the blade:**
 
-![Isentropic Mach number vs x/c](vki_project_images/fig13_isentropic_mach_vs_xc.png)
+![Isentropic Mach number vs x/c](fig13_isentropic_mach_vs_xc.png)
 
 **Pressure contours** — showing the pressure differential driving flow acceleration and the separation region:
 
-![Static pressure contour over cascade](vki_project_images/fig14_static_pressure_cascade.jpg)
-![Total pressure contour over cascade](vki_project_images/fig16_total_pressure_cascade.jpg)
+![Static pressure contour over cascade](fig14_static_pressure_cascade.jpg)
+![Total pressure contour over cascade](fig16_total_pressure_cascade.jpg)
 
 **Findings:**
 - The suction surface accelerates the flow sharply, with isentropic Mach number peaking at **1.27 near x/c ≈ 0.625**, then dropping off toward the trailing edge — consistent with flow separation developing on the aft portion of the suction surface due to an adverse pressure gradient. The pressure surface stays comparatively flat (Mach ≈ 0.20–0.22) through mid-chord before rising toward the trailing edge.
